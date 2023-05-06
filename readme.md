@@ -4,27 +4,27 @@ Welcome to my GitHub corner! I'm an enthusiastic and inquisitive learner, ventur
 
 🚀 Just starting my journey in:
 
-    Web Development: Crafting web wonders with HTML, CSS, JavaScript, and popular frameworks like React and Node.
-    Backend Development: Powering the engines with Node.js, Express, and database navigation using MongoDB and PostgreSQL.
-    Data Science & Machine Learning: Deciphering data mysteries with Python, Pandas, NumPy, Scikit-learn, and TensorFlow.
+- Web Development: Crafting web wonders with HTML, CSS, JavaScript, and popular frameworks like React and Node.
+- Backend Development: Powering the engines with Node.js, Express, and database navigation using MongoDB and PostgreSQL.
+- Data Science & Machine Learning: Deciphering data mysteries with Python, Pandas, NumPy, Scikit-learn, and TensorFlow.
 
 📬 Get in touch with me!
 
 Want to collaborate on a project, ask a question, or just say hello? Here's how you can contact me:
 
-    🌐 Website: Under Construction! 🚧 [https://tythetechie.dev](https://tythetechie.dev/)
-    📧 Email: [github@tythetechie.dev](mailto:github@tythetechie.dev)
+- 🌐 Website: Under Construction! 🚧 [https://tythetechie.dev](https://tythetechie.dev/)
+- 📧 Email: [github@tythetechie.dev](mailto:github@tythetechie.dev)
 
 🔧 My toolbox
 
 These are some of the tools, languages, and frameworks I've been tinkering with:
 
-    Languages: JavaScript, Python, Java
-    Frontend: HTML, CSS, React, Vue
-    Backend: Node.js, Express, Django, Flask
-    Data Science: Pandas, NumPy, Scikit-learn, TensorFlow
-    Databases: MongoDB, MySQL, PostgreSQL, SQLite
-    Tools & Platforms: Git, GitHub, VS Code, Docker, AWS, GCP, Azure
+- Languages: JavaScript, Python, Java
+- Frontend: HTML, CSS, React, Vue
+- Backend: Node.js, Express, Django, Flask
+- Data Science: Pandas, NumPy, Scikit-learn, TensorFlow
+- Databases: MongoDB, MySQL, PostgreSQL, SQLite
+- Tools & Platforms: Git, GitHub, VS Code, Docker, AWS, GCP, Azure
 
 📊 GitHub stats
 
