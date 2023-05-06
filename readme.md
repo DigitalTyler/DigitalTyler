@@ -1,4 +1,4 @@
-👋 Hey there, I'm Tyler the Techie!
+👋 Hey there, I'm Ty the Techie!
 
 Welcome to my GitHub corner! I'm an enthusiastic and inquisitive learner, venturing into the exciting realms of programming and technology. Thanks for dropping by to learn more about me! 😄
 
