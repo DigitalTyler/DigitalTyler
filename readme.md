@@ -8,9 +8,9 @@ Welcome to my GitHub corner! I'm an enthusiastic and inquisitive learner, ventur
     Backend Development: Powering the engines with Node.js, Express, and database navigation using MongoDB and PostgreSQL.
     Data Science & Machine Learning: Deciphering data mysteries with Python, Pandas, NumPy, Scikit-learn, and TensorFlow.
 
-📬 Get in touch with Tyler the Techie!
+📬 Get in touch with me!
 
-Want to collaborate on a project, ask a question, or just say "hello"? Here's how you can contact me:
+Want to collaborate on a project, ask a question, or just say hello? Here's how you can contact me:
 
     🌐 Website: Under Construction! 🚧 [https://tythetechie.dev](https://tythetechie.dev/)
     📧 Email: [github@tythetechie.dev](mailto:github@tythetechie.dev)
