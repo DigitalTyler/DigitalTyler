@@ -28,6 +28,6 @@ These are some of the tools, languages, and frameworks I've been tinkering with:
 
 📊 GitHub stats
 
-![TyTheTechie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TyTheTechie&show_icons=true&theme=vue-dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=79ff97&border_radius=15&border_color=79ff97&custom_title=Tyler%27s%20GitHub%20Stats)
+![TyTheTechie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TyTheTechie&show_icons=true&theme=vue-dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=79ff97&border_radius=15&border_color=79ff97&custom_title=TyTheTechie%27s%20GitHub%20Stats)
 
 Thanks again for checking out my profile! Don't forget to leave a ⭐ if you like what you see, and feel free to follow me on my programming journey. Happy coding!
