@@ -19,10 +19,10 @@ Want to collaborate on a project, ask a question, or just say hello? Here's how 
 
 These are some of the tools, languages, and frameworks I've been tinkering with:
 
-- Languages: JavaScript, Python, Java
+- Languages: JavaScript, Python
 - Frontend: HTML, CSS, React, Vue
 - Backend: Node.js, Express, Django, Flask
-- Data Science: Pandas, NumPy, Scikit-learn, TensorFlow
+- Data Science: Pandas, NumPy, TensorFlow
 - Databases: MongoDB, MySQL, PostgreSQL, SQLite
 - Tools & Platforms: Git, GitHub, VS Code, Docker, AWS, GCP, Azure
 
