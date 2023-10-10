@@ -20,8 +20,7 @@ These are some of the tools, languages, and frameworks I've been tinkering with:
 
 - Languages: JavaScript, Python
 - Frontend: HTML, CSS, React, Vue
-- Backend: Node.js, Express, Django, Flask
-- Data Science: Pandas, NumPy, TensorFlow
+- Backend: Node.js, Express, Django
 - Databases: MongoDB, MySQL, PostgreSQL, SQLite
 - Tools & Platforms: Git, GitHub, VS Code, Docker, AWS, GCP, Azure
 
