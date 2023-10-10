@@ -4,9 +4,8 @@ Welcome to my GitHub corner! I'm an enthusiastic and inquisitive learner, ventur
 
 🚀 Just starting my journey in:
 
-- Web Development: Crafting web wonders with HTML, CSS, JavaScript, and popular frameworks like React and Node.
+- Web Development: Crafting web wonders with HTML, CSS, JavaScript, and popular frameworks like React.
 - Backend Development: Powering the engines with Node.js, Express, and database navigation using MongoDB and PostgreSQL.
-- Data Science & Machine Learning: Deciphering data mysteries with Python, Pandas, NumPy, and TensorFlow.
 
 📬 Get in touch with me!
 
