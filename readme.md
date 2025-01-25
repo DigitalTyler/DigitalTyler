@@ -6,7 +6,7 @@ I'm an enthusiastic and inquisitive learner, venturing into the exciting realms 
 const skills = {
     languages: ['JavaScript', 'Python'],
     frontend: ['React', 'Vue', 'HTML/CSS', 'NextJS'],
-    backend: ['Next.js','Node.js', 'Express',
+    backend: ['Next.js','Node.js', 'Express'],
     databases: ['Supabase', 'MongoDB', 'PostgreSQL', 'MySQL', 'SQLite'],
     cloud: ['AWS', 'GCP', 'Azure', 'OVH', 'Oracle'],
     tools: ['Docker', 'Git', 'VS Code']
